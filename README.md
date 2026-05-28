@@ -22,8 +22,6 @@
 
 <br />
 
-<h3 align="center">My Stats</h3>
-
 <!-- Most used languages (black & white) -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nexdonk&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&theme=dark" alt="Top Languages" />
@@ -34,13 +32,4 @@
 <!-- Overall stats (black & white) -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nexdonk&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1117&theme=dark&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<br />
-
-<h3 align="center">nexdevelopmentx (Org)</h3>
-
-<!-- Org most used languages (black & white) -->
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nexdevelopmentx&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&theme=dark" alt="Org Top Languages" />
 </p>
