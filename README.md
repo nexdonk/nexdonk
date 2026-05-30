@@ -6,11 +6,14 @@
 
 <!-- Tech stack icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,js,ts,svelte,react,vue,python,docker,nextjs,cs,git&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=lua,html,css,tailwind,js,ts,svelte,react,vue,nextjs,nodejs,express,python,cs,mongodb,mysql,postgres,docker,visualstudio,git&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
 </p>
 
 <br />
