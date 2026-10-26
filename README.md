@@ -1,70 +1,45 @@
- <h1 align="center">nexdonk</h1>
+ <div align="center">
 
-<p align="center">
-  Full-stack developer building web applications, backend systems, developer tools, and FiveM resources.
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:303030&height=160&section=header&text=nexdonk&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="nexdonk" />
 
-<p align="center">
-  <a href="https://nexdonk.com">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/nexdonk?tab=repositories">Repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://nexdev.store">NEX.dev</a>
-</p>
+  **Full-stack developer · Infrastructure · FiveM**
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nexdonk?style=flat-square&color=18181b&labelColor=18181b&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/nexdonk?style=flat-square&color=18181b&labelColor=18181b&label=Stars" alt="GitHub stars" />
-</p>
+  Building web applications, backend systems, developer tools, and custom game resources.
 
----
+  [**Portfolio**](https://nexdonk.com) · [GitHub Repositories](https://github.com/nexdonk?tab=repositories) · [NEX.dev](https://nexdev.store)
 
-<h3 align="center">Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,cs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Python, Lua and C#" />
-</p>
-
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind&theme=dark" alt="React, Next.js, Vue, Svelte and Tailwind CSS" />
-</p>
-
-<h3 align="center">Backend & Databases</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" alt="Node.js, Express, MongoDB, MySQL and PostgreSQL" />
-</p>
-
-<h3 align="center">Tools & Infrastructure</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,visualstudio&theme=dark" alt="Docker, Git, GitHub, Linux and Visual Studio" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Caddy-18181b?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
-  <img src="https://img.shields.io/badge/JetBrains-18181b?style=flat-square&logo=jetbrains&logoColor=white" alt="JetBrains" />
-</p>
-
-<h3 align="center">Game Development</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FiveM-18181b?style=flat-square&logo=rockstargames&logoColor=white" alt="FiveM" />
-  <img src="https://skillicons.dev/icons?i=lua,cs&theme=dark" alt="Lua and C#" />
-</p>
-
----
-
-<h3 align="center">What I Build</h3>
-
-<p align="center">
-  Web Applications&nbsp; · &nbsp;APIs & Backend&nbsp; · &nbsp;Developer Tools
   <br />
-  FiveM Resources&nbsp; · &nbsp;Self-Hosted Infrastructure
-</p>
 
-<p align="center">
-  <a href="https://nexdonk.com">nexdonk.com</a>
-</p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,python,lua,cs,postgres,mongodb,docker,linux,git&theme=dark" alt="Technology stack" />
+
+  <br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nexdonk&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888&icon_color=888888&include_all_commits=true" height="150" alt="GitHub statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexdonk&layout=compact&hide_border=true&bg_color=00000000&text_color=888888&title_color=ffffff&langs_count=5" height="150" alt="Most used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ### Currently building
+
+  Web apps · APIs · Developer tools · FiveM resources · Self-hosted infrastructure
+
+  <br />
+
+  <a href="https://nexdonk.com">
+    <img src="https://img.shields.io/badge/Visit%20my%20portfolio-nexdonk.com-white?style=flat-square&logo=googlechrome&logoColor=black" alt="Visit nexdonk.com" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+</div>
